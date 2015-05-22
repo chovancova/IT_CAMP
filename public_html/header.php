@@ -13,5 +13,5 @@
   
       
     <div id="logo">
-<!--        <a href="index.php" class="logo_home"></a>  -->
+        <a href="index.php" class="logo_home"></a>  
     </div>

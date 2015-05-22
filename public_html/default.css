@@ -24,11 +24,12 @@ and open the template in the editor.
 }
 
 #content {
-    width: 80%;
+    width: 72%; //full je 80%
     min-height: 200px;
     height: auto;
     background:green;
     float:right;
+    padding: 0 4% 0 4%;
     
 }
 
