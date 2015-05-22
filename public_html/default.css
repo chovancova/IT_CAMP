@@ -19,6 +19,7 @@ and open the template in the editor.
     width: 20%;
     height: 200px;
     background:blue;
+    float:left;
     
 }
 
@@ -26,6 +27,7 @@ and open the template in the editor.
     width: 80%;
     height: 200px;
     background:green;
+    float:right;
     
 }
 
@@ -33,6 +35,7 @@ and open the template in the editor.
     width: 100%;
     height: 50px;
     background:pink;
+    clear:both;
     
 }
 
