@@ -10,42 +10,67 @@ and open the template in the editor.
 
 #logo {
     width: 100%;
-    min-height: 150px;
-    background:red;
     
+}
+
+#logo img{
+    
+    width: 100%;
 }
 
 #menu {
     width: 20%;
     min-height: 200px;
-    background:blue;
     float:left;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: white;
+    text-decoration: none;
     
 }
 
+#menu a {
+		color: white; text-decoration: none;
+	}
+
 #content {
-    width: 80%;
+    width: 72%; //full je 80%
     min-height: 200px;
     height: auto;
-    background:green;
+    background:#E8E8E8;
     float:right;
+    padding: 0 4% 0 4%;
     
 }
 
 #footer {
     width: 100%;
     min-height: 50px;
-    background:pink;
+    background:#0099FF;
     clear:both;
     
+}
+
+#menu_buttons{
+    
+    width: 95%;
+    height: auto;
+    float:left;
+}
+
+#menu_right_side{
+    
+    width: 5%;
+    height: inherit;
+    background: #0099FF;
+    float: right;
 }
 
 .menu_button{
     
     width: 100%;
     height: 40px;
-    background: grey;
-    margin: 5px 0 5px 0;
+    background: #0099FF;
+    margin-bottom: 5px;
     text-align: center;
 }
 
