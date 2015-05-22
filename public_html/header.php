@@ -13,5 +13,6 @@
   
       
     <div id="logo">
-        <a href="index.php" class="logo_home"></a>  
+        <a href="index.php"><img src="img/logo_main.png" /></a>  
+        <!--<a href="index.php" class="logo_home"><img src="img/logo_main.png" /></a>--> 
     </div>
