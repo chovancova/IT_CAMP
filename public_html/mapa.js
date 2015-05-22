@@ -1,4 +1,4 @@
-      Raphael(10, 150, 1000, 400, function () {
+      Raphael(290, 320, 950, 350, function () {
                 var r = this;
                 r.rect(0, 0, 1000, 400, 10).attr({
                     stroke: "none",
