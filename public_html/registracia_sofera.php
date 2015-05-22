@@ -41,9 +41,7 @@
         </p>
     </form>
 
-    <p>
-        <a href="reg.php">Registrácia</a>
-    </p>        
+         
 
 
 
