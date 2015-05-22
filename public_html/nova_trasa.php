@@ -1,4 +1,7 @@
-<?php include 'header_1.php'; ?>
+<script src="raphael.js"></script>
+<script src="mapa.js"></script>
+
+<?php include 'header.php'; ?>
 <?php include 'menu.php'; ?>
 <div id="content">
         
