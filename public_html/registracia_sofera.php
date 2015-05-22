@@ -3,7 +3,7 @@
 <div id="content">
 
 
-    <form action="tempconvert.asmx/FahrenheitToCelsius" onsubmit="return validateForm3()" method="post">
+    <form action="http://192.168.1.153:8080/IT_Camp/DriverWS?addDriver" method="post">
         <p>
             Prihlasovacie meno: 
         </p>
@@ -14,7 +14,7 @@
             Heslo: 
         </p>
         <p>
-            <input type="text" name="heslo" >
+            <input type="password" name="heslo" >
             </p>
         <p>
             Meno vodiča: 
@@ -29,19 +29,21 @@
              <input type="text" name="priezvisko" >
             </p>
         <p>
-            Trasa: <select>
+            Trasa: 
+        </p>
+<p>
+<select>
                 <option value="trasa1"> Zilina - Bratislava</option>
                 <option value="trasa2">Kosice - Presov</option>
                 <option value="trasa3">Trennčín - Púchov - Žilina</option>
             </select>
-        </p>
-
+</p>
         <p>
             <input type="submit" value="Registrovať" >
         </p>
     </form>
 
-         
+      
 
 
 
