@@ -29,7 +29,7 @@ and open the template in the editor.
     width: 72%; //full je 80%
     min-height: 200px;
     height: auto;
-    background:green;
+    background:#E8E8E8;
     float:right;
     padding: 0 4% 0 4%;
     
@@ -38,7 +38,7 @@ and open the template in the editor.
 #footer {
     width: 100%;
     min-height: 50px;
-    background:pink;
+    background:#0099FF;
     clear:both;
     
 }
