@@ -7,7 +7,8 @@
   <script type="text/javascript" src="javascript.js"></script>
   <link rel="stylesheet" type="text/css" href="default.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+ <script src="raphael.js"></script>
+    <script src="mapa.js"></script>
   <title></title>
   </head>
   <body>
