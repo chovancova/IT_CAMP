@@ -9,6 +9,11 @@
 
 <div id="menu">
     
+    <a href="#"><div class="menu_button">menu 1</div></a>
+    <a href="#"><div class="menu_button">menu 2</div></a>
+    <a href="#"><div class="menu_button">menu 3</div></a>
+    <a href="#"><div class="menu_button">menu 4</div></a>
+        
     
 </div>
 

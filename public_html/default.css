@@ -10,14 +10,14 @@ and open the template in the editor.
 
 #logo {
     width: 100%;
-    height: 150px;
+    min-height: 150px;
     background:red;
     
 }
 
 #menu {
     width: 20%;
-    height: 200px;
+    min-height: 200px;
     background:blue;
     float:left;
     
@@ -25,7 +25,7 @@ and open the template in the editor.
 
 #content {
     width: 80%;
-    height: 200px;
+    min-height: 200px;
     background:green;
     float:right;
     
@@ -33,9 +33,18 @@ and open the template in the editor.
 
 #footer {
     width: 100%;
-    height: 50px;
+    min-height: 50px;
     background:pink;
     clear:both;
     
+}
+
+.menu_button{
+    
+    width: 100%;
+    height: 40px;
+    background: grey;
+    margin: 5px 0 5px 0;
+    text-align: center;
 }
 
