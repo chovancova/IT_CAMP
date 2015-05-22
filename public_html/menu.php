@@ -9,6 +9,11 @@
 
 <div id="menu">
     
+    <a href="registracia_sofera.php"><div class="menu_button">Novy sofer</div></a>
+    <a href="#"><div class="menu_button">Nova trasa</div></a>
+    <a href="#"><div class="menu_button">Historia zariadenia</div></a>
+    <a href="#"><div class="menu_button">Historia sofera</div></a>
+        
     
 </div>
 
